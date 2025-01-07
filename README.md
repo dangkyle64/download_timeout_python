@@ -13,7 +13,7 @@ Python scripts displaying some timeout on HTTP request examples. Also displays u
 
 Clone the repository:
    ```bash
-   git clone https://github.com/dangkyle64/
+   git clone https://github.com/dangkyle64/download_timeout_python
    ```
 
 ### Requirements
